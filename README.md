@@ -60,3 +60,4 @@ This project provides a 360° view of sales performance, brand/category trends, 
 - **README.md                        # Project documentation
 - **screenshots/                     # Dashboard preview images
 - **PDF                              #Project PDF
+- **datasets                         #project dataset
