@@ -56,6 +56,6 @@ This project provides a 360° view of sales performance, brand/category trends, 
 - **Conditional Formatting** — color-coded Stock Level indicators (Available/Reorder)
 
 ## 📁 Repository Contents
-├── Retail_Sales_Inventory.pbix     # Power BI project file
-├── README.md                        # Project documentation
-└── screenshots/                     # Dashboard preview images
+- **Retail_Sales_Inventory.pbix     # Power BI project file
+- **README.md                        # Project documentation
+- **screenshots/                     # Dashboard preview images
